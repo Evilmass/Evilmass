@@ -1,16 +1,14 @@
-### Hi there 👋
+![info](https://github-readme-stats.vercel.app/api?username=Evilmass&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
-<!--
-**Evilmass/Evilmass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Work
+![](https://img.shields.io/static/v1?label=%20&message=Python&color=white&style=flat-square&logo=python)
+![](https://img.shields.io/static/v1?label=%20&message=Flask&color=000000&style=flat-square&logo=flask)
+![](https://img.shields.io/static/v1?label=%20&message=Elasticsearch&color=005571&style=flat-square&logo=elasticsearch)
+![](https://img.shields.io/static/v1?label=%20&message=Celery&color=37814A&style=flat-square&logo=celery)
 
-Here are some ideas to get you started:
+### Game
+![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Blog
+[evilmass.github.io](https://evilmass.github.io)
